@@ -1,6 +1,8 @@
 # Data Anonymization
 
-This notebook is about using anonymization techniques on some features. Two dataset were used to achieve this goal. One dataset contains data related to COVID-19 exams in the Ceará State, while the other is about zones in the same state.
+This notebook is about using anonymization techniques on some features. 
+
+Two dataset were used to execute the proposed activities. One dataset contains data related to COVID-19 exams in the Ceará State, while the other is about zones in the same state.
 
 The anonymization techniques utilized were suppression and generalization: full-domain generalization and sub-tree generalization scheme.
 
